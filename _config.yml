@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ddspring
+tagline:          ''
+description:      '点滴'
+url:              https://ddspring.github.io/
+
+author:
+  name:           'ddspring'
+  url:            https://github.com/ddspring
+
+paginate:         100
+
+# Custom vars
+version:          1.0.1
+
+github:
+  repo:           https://github.com/ddspring
